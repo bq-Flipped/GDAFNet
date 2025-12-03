@@ -9,6 +9,8 @@
 
 ```plaintext
 .
+├── 📂 data/                 # Experiment data
+│   └── data.jpg       
 ├── 📂 fig/                    # Model structure diagram
 │   └── overview.pdf       
 ├── 📂 model/                  # Model architecture definition directory
